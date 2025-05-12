@@ -27,10 +27,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=aodrn0203&show_icons=true&theme=radical" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aodrn0203&layout=pie&theme=radical" alt="Top Langs" />
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aodrn0203&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aodrn0203&layout=pie&theme=radical" alt="Top Langs" />
+</p>
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
