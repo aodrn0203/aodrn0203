@@ -1,6 +1,6 @@
 <!--Header-->
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome+To+mingue's+Github!🖐️&fontSize=50&fontAlineY=10" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome+To+mingue's+Github!🖐️&fontSize=50&desAlignY=40" />
 </p>
 
 <p>
