@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aodrn0203&layout=compact"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aodrn0203&layout=pie" alt="Top Langs" />
+  </a>
 </p>
-
