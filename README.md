@@ -36,7 +36,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aodrn0203" alt="Solved.ac Badge" />
 </a>
 
-## 🪪certificate
+## 🪪certificates
 <ul>
   <li>ITQ PowerPoint</li>
   <li>ITQ Hangeul</li>
