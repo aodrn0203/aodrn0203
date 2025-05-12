@@ -43,6 +43,8 @@
   <li>ITQ Excel</li>
   <li>ITQ Eccess</li>
   <li>GTQ PhotoShop</li>
+  <li>CosPro Python</li>
+  <li>CosPro C/C++</li>
   <li>정보처리기능사</li>
   <li>웹디자인기능사</li>
 </ul>
