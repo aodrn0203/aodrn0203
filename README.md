@@ -31,3 +31,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aodrn0203&layout=pie&theme=radical" alt="Top Langs" />
 </p>
 
+## ⚙️Algorithm
+<a href="https://solved.ac/profile/aodrn0203">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aodrn0203" alt="Solved.ac Badge" />
+</a>
+
+## 🪪certificate
+<ul>
+  <li>ITQ PowerPoint</li>
+  <li>ITQ Hangeul</li>
+  <li>ITQ Excel</li>
+  <li>ITQ Eccess</li>
+  <li>GTQ PhotoShop</li>
+  <li>정보처리기능사</li>
+  <li>웹디자인기능사</li>
+</ul>
